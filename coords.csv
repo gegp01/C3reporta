@@ -1,5 +1,5 @@
 "name","confirm","suspect","dead","deadRate","showRate","heal","healRate","showHeal","latitudes","longitudes"
-"China",80581,522,3016,"3.74",FALSE,52151,"64.72",TRUE,35,105
+"China",80735,482,3045,"3.77",FALSE,53834,"66.68",TRUE,35,105
 "South Korea",3150,0,13,"0.41",FALSE,24,"0.76",TRUE,36.504,128.103
 "Diamond Princess",705,0,6,"0.85",FALSE,0,"0.00",TRUE,NA,NA
 "Italy",653,0,17,"2.60",FALSE,45,"6.89",TRUE,44.931,10.44
@@ -15,34 +15,34 @@
 "Malaysia",23,0,0,"0.00",FALSE,15,"65.22",TRUE,2.5,112.5
 "Australia",23,0,0,"0.00",FALSE,15,"65.22",TRUE,-27,133
 "United Arab Emirates",19,0,0,"0.00",FALSE,5,"26.32",TRUE,24,54
-"Vietnam",16,0,0,"0.00",FALSE,16,"100.00",TRUE,21.491,105.314
 "United Kingdom",16,0,0,"0.00",FALSE,8,"50.00",TRUE,54,-2
+"Vietnam",16,0,0,"0.00",FALSE,16,"100.00",TRUE,21.491,105.314
 "Spain",13,0,0,"0.00",FALSE,2,"15.38",TRUE,40.227,-3.649
 "Canada",13,0,0,"0.00",FALSE,4,"30.77",TRUE,60,-95
 "Sweden",7,0,0,"0.00",FALSE,0,"0.00",TRUE,62,15
+"Oman",6,0,0,"0.00",FALSE,0,"0.00",TRUE,21,57
 "Iraq",6,0,0,"0.00",FALSE,0,"0.00",TRUE,33,44
 "Norway",6,0,0,"0.00",FALSE,0,"0.00",TRUE,61.152,8.74
 "Switzerland",6,0,0,"0.00",FALSE,0,"0.00",TRUE,46.861,7.908
-"Oman",6,0,0,"0.00",FALSE,0,"0.00",TRUE,21,57
 "Israel",6,0,0,"0.00",FALSE,1,"16.67",TRUE,31.5,34.75
 "Russia",5,0,0,"0.00",FALSE,2,"40.00",TRUE,60,100
-"India",3,0,0,"0.00",FALSE,3,"100.00",TRUE,22.881,79.619
-"Philippines",3,0,1,"33.33",FALSE,1,"33.33",TRUE,13,122
-"Greece",3,0,0,"0.00",FALSE,0,"0.00",TRUE,39,22
-"Austria",3,0,0,"0.00",FALSE,0,"0.00",TRUE,47.3333333333,13.3333333333
 "Denmark",3,0,0,"0.00",FALSE,0,"0.00",TRUE,56,10
-"Lebanon",3,0,0,"0.00",FALSE,0,"0.00",TRUE,33.8333333333,35.8333333333
+"India",3,0,0,"0.00",FALSE,3,"100.00",TRUE,22.881,79.619
+"Austria",3,0,0,"0.00",FALSE,0,"0.00",TRUE,47.3333333333,13.3333333333
+"Greece",3,0,0,"0.00",FALSE,0,"0.00",TRUE,39,22
 "Croatia",3,0,0,"0.00",FALSE,0,"0.00",TRUE,45.1666666667,15.5
+"Lebanon",3,0,0,"0.00",FALSE,0,"0.00",TRUE,33.8333333333,35.8333333333
+"Philippines",3,0,1,"33.33",FALSE,1,"33.33",TRUE,13,122
 "Finland",2,0,0,"0.00",FALSE,1,"50.00",TRUE,64.504,26.272
-"Nepal",1,0,0,"0.00",FALSE,1,"100.00",TRUE,28.253,83.939
-"Estonia",1,0,0,"0.00",FALSE,0,"0.00",TRUE,58.674,25.793
+"Gambia",1,0,0,"0.00",FALSE,0,"0.00",TRUE,13.453,-15.386
+"Belgium",1,0,0,"0.00",FALSE,1,"100.00",TRUE,50.643,4.664
 "Republika Severna Makedonija",1,0,0,"0.00",FALSE,0,"0.00",TRUE,NA,NA
 "Netherlands",1,0,0,"0.00",FALSE,0,"0.00",TRUE,52.077,5.389
 "Afghanistan",1,0,0,"0.00",FALSE,0,"0.00",TRUE,33.677,65.216
+"Nepal",1,0,0,"0.00",FALSE,1,"100.00",TRUE,28.253,83.939
 "Algeria",1,0,0,"0.00",FALSE,0,"0.00",TRUE,28.163,2.632
-"Romania",1,0,0,"0.00",FALSE,0,"0.00",TRUE,46,25
 "Cambodia",1,0,0,"0.00",FALSE,1,"100.00",TRUE,13,105
-"Gambia",1,0,0,"0.00",FALSE,0,"0.00",TRUE,13.453,-15.386
+"Romania",1,0,0,"0.00",FALSE,0,"0.00",TRUE,46,25
 "Brazil",1,0,0,"0.00",FALSE,0,"0.00",TRUE,-10.772,-53.089
 "Sri Lanka",1,0,0,"0.00",FALSE,1,"100.00",TRUE,7,81
-"Belgium",1,0,0,"0.00",FALSE,1,"100.00",TRUE,50.643,4.664
+"Estonia",1,0,0,"0.00",FALSE,0,"0.00",TRUE,58.674,25.793

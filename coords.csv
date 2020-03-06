@@ -1,55 +1,55 @@
-"data","name","laltitude","longitude"
+"data","name","latitude","longitude"
 "45","WHO report",NA,NA
 "2020-03-05","Date",NA,NA
 "80565","China",35,105
-"5766","South Korea",NA,NA
+"5766","South Korea",36.504,128.103
 "317","Japan",36,138
 "110","Singapore",1.36666666667,103.8
 "66","Australia",-27,133
 "50","Malaysia",2.5,112.5
-"16","Vietnam",NA,NA
+"16","Vietnam",21.491,105.314
 "3","Philippines",13,122
 "1","Cambodia",13,105
-"2","New Zealand",NA,NA
+"2","New Zealand",-41,174
 "47","Thailand",15.7,100.844
 "29","India",22.881,79.619
 "1","Nepal",28.253,83.939
-"1","Sri Lanka",NA,NA
+"1","Sri Lanka",7,81
 "2","Indonesia",-0.976,114.252
-"129","United States",NA,NA
+"129","United States",38,-97
 "30","Canada",60,-95
 "3","Brazil",-10.772,-53.089
 "5","Mexico",23,-102
 "7","Ecuador",-1.385,-78.497
-"1","Dominican Republic",NA,NA
-"2","Saint Martin (French part)",NA,NA
-"1","Saint Barthelemy",NA,NA
+"1","Dominican Republic",19,-70.6666666667
+"2","Saint Martin (French part)",18.094,-63.041
+"1","Saint Barthelemy",17.9017,-62.8288
 "1","Argentina",-35.377,-65.167
 "1","Chile",-30,-71
 "3089","Italy",44.931,10.44
 "262","Germany",51,9
 "282","France",46,2
-"89","United Kingdom",NA,NA
+"89","United Kingdom",54,-2
 "198","Spain",40.227,-3.649
 "9","Croatia",45.1666666667,15.5
 "37","Austria",47.3333333333,13.3333333333
 "7","Finland",64.504,26.272
 "15","Israel",31.5,34.75
-"3","Russia",NA,NA
+"3","Russia",60,100
 "35","Sweden",62,15
 "23","Belgium",50.643,4.664
 "10","Denmark",56,10
 "2","Estonia",58.674,25.793
 "3","Georgia",42.176,43.518
 "9","Greece",39,22
-"1","Macedonia",NA,NA
+"1","Macedonia",41.6,21.698
 "56","Norway",61.152,8.74
 "4","Romania",46,25
 "56","Switzerland",46.861,7.908
 "6","Belarus",53.54,28.047
 "1","Lithuania",56,24
 "38","Netherlands",52.077,5.389
-"16","San Marino",NA,NA
+"16","San Marino",43.933333,12.4166666667
 "3","Azerbaijan",40.43,47.395
 "2","Ireland",53,-8
 "1","Monaco",43.75,7.412
@@ -63,14 +63,14 @@
 "1","Poland",52,20
 "1","Ukraine",49,32
 "1","Liechtenstein",47.153,9.555
-"2","Bosnia & Herzegovina",NA,NA
+"2","Bosnia & Herzegovina",44.169,17.786
 "2","Hungary",47,20
 "1","Slovenia",46.1166666667,14.8166666667
 "1","Gibraltar",36.138,-5.345
 "2922","Iran",32,53
 "58","Kuwait",29.476,47.376
 "49","Bahrain",26,50.55
-"27","United Arab Emirates",NA,NA
+"27","United Arab Emirates",24,54
 "36","Iraq",33,44
 "15","Oman",21,57
 "13","Lebanon",33.8333333333,35.8333333333
@@ -80,9 +80,9 @@
 "8","Qatar",25.316,51.191
 "1","Jordan",31,36
 "2","Morocco",32,-5
-"2","Saudi Arabia",NA,NA
+"2","Saudi Arabia",24.023,44.585
 "1","Tunisia",34,9
-"4","Palestinian Territories",NA,NA
+"4","Palestinian Territories",32.037,35.278
 "12","Algeria",28.163,2.632
 "1","Nigeria",10,8
 "4","Senegal",15.013,-14.881
